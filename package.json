@@ -1,0 +1,17 @@
+{
+  "name": "site-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "highlight.js": "^11.0.1",
+    "marked": "^2.1.3"
+  }
+}
